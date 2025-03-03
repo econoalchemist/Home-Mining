@@ -149,7 +149,7 @@ Yes, about 83dB without any noise treatment. About 72dB with the noise treatment
 
 ![](assets/q5.png)
 
-I would start with [Diverter's guide](https://github.com/econoalchemist/Home-Mining/blob/main/assets/Mining-for-the-Streets.pdf) and the [Verified Listings](https://t.me/Hardwaremarketchannel) Telegram channel. Once you get a machine, download the manufacturers software tool and the default settings should be fine to start. Figure out which mining pool you want to join and add that URL to your software tool and you're good to go. Connecting to a pool was the easiest part of all this. It really is just plug & play.
+I would start with [Diverter's guide](assets/Mining-for-the-Streets.pdf) and the [Verified Listings](https://t.me/Hardwaremarketchannel) Telegram channel. Once you get a machine, download the manufacturers software tool and the default settings should be fine to start. Figure out which mining pool you want to join and add that URL to your software tool and you're good to go. Connecting to a pool was the easiest part of all this. It really is just plug & play.
 
 ![](assets/q1.png)
 
