@@ -99,7 +99,9 @@ Correct, there is strength in numbers. By joining a pool I am contributing hash 
 
 It will take some time to gather this data, but here is our current electric usage chart with my prediction drawn in:
 
-![](assets/Electric-3.png)
+<p align="center">
+  <img width="300" src="assets/Electric-3.png">
+</p>
 
 ![](assets/q17.png)
 
