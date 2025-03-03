@@ -53,8 +53,8 @@ This article is a collaboration with General Mining Research, a Singapore based 
 
 In Part I of this series, we presented a simple heuristic for understanding hashpower as an asset class. In mining, everything is connected. To establish a comprehensive understanding of the market dynamic, we need to scrutinize the interactions between the underlying forces in greater depth.
 
-[WhatMiner M31S Operation Guide](assets/)
+[WhatMiner M31S Operation Guide](assets/WhatMiner-M31S-Operation-Guide.pdf)
 
-[WhatsMinerTool Operating Guide_v6.0.27](assets/)
+[WhatsMinerTool Operating Guide_v6.0.27](assets/WhatsMinerTool-Operating-Guide_V6.0.27.pdf)
 
 Thanks for reading! I hope that this article got you thinking about how mining at home for non-KYC bitcoin can be beneficial. Everyone's situation is different and not all of my solutions will work for everyone, but I hope the information I presented here got your wheels turning. If you do start mining at home, please share your setups, the challenges you faced, and the solutions you came up with. I love to see other projects that people are working on.   
