@@ -7,7 +7,9 @@ If you're reading this, you probably have a basic understanding of what role Bit
 
 Have you ever considered mining Bitcoin at home? Maybe you have but were deterred by naysayers telling you that home miners cannot compete with industrial-sized players. Or maybe you heard it's too complicated to configure your own setup. Or that residential electrical costs make it so that you will never be profitable.
 
-![](assets/4v1oou.jpg)
+<p align="center">
+  <img src="assets/4v1oou.jpg">
+</p>  
 
 Join me as I set out to put the FUD to the test and find out for myself what the truth of the matter is. You know how the saying goes, "Don't trust, verify". For as long as I've been interested in Bitcoin, mining struck me as a crucial piece of the network that I just didn't understand, it just seemed out of reach from a technical understanding and from an ability standpoint. I made assumptions that resonated with the naysayer's narratives and chalked it up to another missed opportunity. But that changed in November 2020 when I read a home mining guide by [@diverterNoKYC](https://twitter.com/Diverter_NoKYC) called <a href="assets/Mining-for-the-Streets.pdf" target="_blank" rel="noopener noreferrer"><font color="orange">Mining for the Streets</font></a>. Diverter's guide offered a totally fresh perspective on what I thought I knew about mining. I was convinced after reading Mining for the Streets that home-mining for non-KYC Bitcoin was a goal within my reach. I highly recommend starting with Mining for the Streets. If you have had an interest in mining at home but have been told it's not profitable then his guide will change your mind.
 
