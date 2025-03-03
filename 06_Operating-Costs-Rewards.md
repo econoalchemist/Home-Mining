@@ -53,7 +53,7 @@ Even if Alice doesn't sell, her personally identifying information is now tied t
 
 Lets continue with the data from the example above and see how much it would cost to mine 0.125 non-KYC bitcoin at home with my setup. We already saw that non-KYC can be less expensive than KYC bitcoin, but can mining at home for non-KYC bitcoin be even less expensive than that?
 
-![](assets/Slushpool-dash1.png)
+![](assets/Slushpool-dash3.png)
 
 The screenshot of my Slush Pool dashboard above was taken after running my Whatsminer for 4 days 17 hours. The unconfirmed rewards are as good as mine, but technically there needs to be a certain number of block confirmations before they are confirmed as mine. I am going to include them in my total mining rewards for the 4 days 17 hours my miner has been active. The 2% pool fee is already subtracted from my rewards, so what I see is what I get.  
 
