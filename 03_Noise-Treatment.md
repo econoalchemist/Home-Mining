@@ -1,7 +1,7 @@
 # Noise Treatment
 The difficult thing about addressing a problem that is loud *and* hot is that thermal insulating materials and acoustic insulating materials typically have completely different properties. Where thermal insulation is usually light and fluffy with a thin layer of Mylar or foil on one side, sound will travel right through that with no problem. On the other hand, dense materials that will cause sound to bounce off or reflect and otherwise interrupt the sound pressure waves is typically really good at transferring heat. 
 
-[![Noise Demonstration Video](/assets/Noise-Demo-Thumbnail.png)](https://bitcointv.com/w/1fBhzB8cFvpL8fKU1W8GW4 "Noise Demonstration Video")
+[![Noise Demonstration Video](assets/Noise-Demo-Thumbnail.png)](https://bitcointv.com/w/1fBhzB8cFvpL8fKU1W8GW4 "Noise Demonstration Video")
 
 Everyone's situation will be different; my situation is that I share my home with my wife and our small children. In fact, my kids' room is directly above where the miner was installed so I had no choice but to address the problems of heat and noise. If you have family, roommates, or close neighbors and you want to mine at home, you too will need to be resourceful and creative when addressing these problems. 
 
