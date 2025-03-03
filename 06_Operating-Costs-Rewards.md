@@ -118,14 +118,14 @@ At the time of writing, my electrical utility provider has just installed a peak
 
 With the peak-demand meter, I should be charged $0.11078 per kWh from 14:00 until 18:00. Then from 18:01 until 13:59 I should be charged somewhere between $0.05539 per kWh and $0.08309 per kWh. But I won't know the exact rates until my next bill. But what this means is that the cost to operate my ASIC should look like these examples showing a couple different Watt consumption rates to give a range:
 
-Old Meter Rate of $0.12/kWh @ 3,400W = $9.79
-Old Meter Rate of $0.12/kWh @ 3,600W = $10.37
+- Old Meter Rate of $0.12/kWh @ 3,400W = $9.79
+- Old Meter Rate of $0.12/kWh @ 3,600W = $10.37
 
-Peak-Demand Scenario 1 @ 3,400W = $5.27
-Peak-Demand Scenario 1 @ 3,600W = $5.58
+- Peak-Demand Scenario 1 @ 3,400W = $5.27
+- Peak-Demand Scenario 1 @ 3,600W = $5.58
 
-Peak-Demand Scenario 2 @ 3,400W = $7.24
-Peak-Demand Scenario 2 @ 3,600W = $7.58
+- Peak-Demand Scenario 2 @ 3,400W = $7.24
+- Peak-Demand Scenario 2 @ 3,600W = $7.58
 
 If I get the kind of cost savings I am anticipating, it could potentially reduce my ROI time period to as little as 258 days. So I will be monitoring the changes in my electric bill that the new meter has. If mining hardware costs continue to rise, don't jump to the conclusion that you are being priced out of the market. Try to make careful considerations about your situation, your long term goals and how KYC effects that. You may just find that home mining for non-KYC bitcoin may have a high initial cost but it could save you in many other ways down the road. 
 
