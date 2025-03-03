@@ -59,7 +59,7 @@ And that's it, the ASIC is now pointed to Slush Pool and generating bitcoin rewa
 
 Just to recap:
 
-1) Install the miner software.
+1) Install the miner software or just use your web-browser.
 2) Find the ASIC's local IP address.
 3) Create an account with a pool.
 4) Copy/paste the pool's URL into the mining software or web browser interface.
